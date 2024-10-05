@@ -1,0 +1,6 @@
+requests
+pandas
+schedule
+pvlib
+tensorflow
+smtplib
